@@ -1,0 +1,7 @@
+{
+  "name": "P5 Intelligence",
+  "description": "Multimodal interview scoring & presentation readiness with real-time live telemetrics, video ingestion, and executive intelligence reports.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
